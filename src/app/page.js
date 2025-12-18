@@ -16,7 +16,7 @@ export default function Home() {
 
 
   // ✅ NO SPACES
-  const BASE_URL = " https://vivienne-pastose-karri.ngrok-free.dev";
+  const BASE_URL = "https://ai-ugcvideo.vercel.app/";
 
   async function handleGenerateVideo() {
     setError("");
